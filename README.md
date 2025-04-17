@@ -19,11 +19,11 @@
   <img src="https://github.com/EnzoDiasDev/EnzoDias/blob/main/assets/pixel-cat.gif" width="200">
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/Iniciante-000000?style=plastic" />
+  <img src="https://img.shields.io/badge/%E2%9B%A9%EF%B8%8F%20Iniciante%20%E2%9B%A9%EF%B8%8F-000000?style=for-the-badge" />
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=FF0033&center=true&width=435&lines=Seja+bem-vindo!!!;sou+estudante+de+engenharia+de+software;Sou+do+primeiro+semestre;Tenho+interesse+em+backend;Paran%C3%A1%2C+Brasil!"/>
 </div>
 
 <br>

@@ -19,7 +19,7 @@
   <img src="https://github.com/EnzoDiasDev/EnzoDias/blob/main/assets/pixel-cat.gif" width="200">
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/meow_♡-black" />
+  <img src="https://img.shields.io/badge/Iniciante-000000?style=plastic" />
 </div>
 
 <div align="center" width="100%">
